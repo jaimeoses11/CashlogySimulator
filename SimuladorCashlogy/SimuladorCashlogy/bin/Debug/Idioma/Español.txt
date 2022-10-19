@@ -1,0 +1,69 @@
+ES
+1	Idioma:
+2	Seleccione Idioma...
+3	Estado: 
+4	CERRADO
+5	REPOSO
+6	OCUPADO
+7	ERROR
+8	Simulador Cashlogy
+9	Cashlogy
+10	Configuración Contabilidad
+11	Configuración de Errores
+12	Enviar Ordenes OPOS
+13	Configuración General
+14	Ningún dispositivo abierto
+15	Configure los parametros necesarios del dispositivo
+16	Dispositivo cerrado
+17	A la espera de recibir un Open
+18	CONTABILIDAD
+19	Almacén
+20	Stacker
+21	Devolución
+22	Configurar Contabilidad
+23	Poner todo a 0
+24	Aceptar
+25	ADMITIDO
+26	DEVUELTO
+27	Abrir Stacker
+28	Recaudar y Cerrar Stacker
+29	Valoración de Efectivo
+30	Abierto
+31	Reclamado
+32	Habilitado
+33	ADMISIÓN
+34	Inhibido
+35	Rellenar...
+36	Una moneda de cada
+37	Un billete de cada
+38	Aleatorio
+39	Añadir
+40	Los errores deben configurarse
+41	Forzar Errores
+42	Limpiar Errores
+43	SIN INICIAR
+44	Recibido un OPEN
+45	Recibido un CLAIM
+46	Recibido un ENABLE
+47	Recibido un RELEASE
+48	DEPOSITANDO ...
+49	Recibido un END_DEPOSIT
+50	Recibido un PAUSE_DEPOSIT
+51	DISPENSANDO ...
+52	Devolución Finalizada
+53	CONFIGURACIÓN DE ERRORES
+54	CONFIGURACIÓN
+55	Habilita cadencia en la entrada de efectivo
+56	Entrada monedas (ms)
+57	Entrada billetes (ms)
+58	Debe ser mayor de 0
+59	Habilita cadencia en la salida de efectivo
+60	Salida monedas (ms)
+61	Salida billetes (ms)
+62	Debe ser mayor de 133 ms
+63	Configuración deshabilitada al estar en el modo Run
+64	Configuración Registro
+65	Habilita Simulación
+66	Lista de Dispositivos
+67	Configuración Servidor
+68	Habilita configuración del Servidor	

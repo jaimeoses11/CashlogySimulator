@@ -1,0 +1,69 @@
+FR
+1	Langue:
+2	Sélectionnez la langue...
+3	État:
+4	FERMÉ
+5	REPOS
+6	OCCUPÉ
+7	BOGUE
+8	Simulateur De Cashlogy
+9	Cashlogy
+10	Configuration de la comptabilité
+11	Configuration d'erreur
+12	Envoyez des commandes OPOS
+13	Configuration général
+14	Aucun appareil ouvert
+15	Configurer les paramètres nécessaires de l'appareil
+16	Appareil fermé
+17	En attente de réception d'un Open
+18	COMPTABILITÉ
+19	Entrepôt
+20	Gerbeurs
+21	Retour
+22	Configurer la comptabilité
+23	Mettre tout à 0
+24	Accepter
+25	ADMIS
+26	RETOURNÉS
+27	Ouvrez l'empileur
+28	Ramassez et fermez l'empileur
+29	Évaluation en espèces
+30	Ouvert
+31	Réclamés
+32	Activé
+33	ENTRÉE
+34	Inhibé
+35	Remplir...
+36	Une pièce de chaque
+37	Un billet de chaque
+38	Aléatoire
+39	Ajouter
+40	Les erreurs doivent être configurées
+41	Forcer les erreurs
+42	Nettoyer les erreurs
+43	NON DÉMARRÉ
+44	A reçu un OPEN
+45	A reçu une RÉCLAMATION
+46	A reçu un ENABLE
+47	A reçu une LIBÉRATION
+48	DÉPÔT...
+49	A reçu un END_DEPOSIT
+50	A reçu un PAUSE_DEPOSIT
+51	DISTRIBUTION...
+52	Retour Terminé
+53	CONFIGURATION D'ERREUR
+54	RÉGLAGES
+55	Permet la cadence d'entrée en espèces
+56	Entrée pièces (ms)
+57	Entrée facture (ms)
+58	Doit être supérieur à 0
+59	Permet la cadence des sorties de fonds
+60	Sortie pièces (ms)
+61	Sortie de billets (ms)
+62	Doit être supérieur à 133
+63	Configuration désactivée car en mode Run
+64	Configuration du registre
+65	Activer la simulation
+66	Liste des périphériques
+67	Configuration du serveur
+68	Activer la configuration du serveur

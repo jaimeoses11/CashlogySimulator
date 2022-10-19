@@ -1,0 +1,11 @@
+Sélectionnez l'erreur que vous souhaitez simuler ...
+1002-Possible dérèglement de la comptabilité
+1110-Impossible de rendre la monnaie
+1556-Niveau élevé de saleté des capteurs de la conduite de rendu de billets
+1130-Porte module pièces ouverte
+1196-La capacité maximale de stockage de certaines pièces a été atteinte
+1315-Il est nécessaire d'effectuer la maintenance préventive de la machine
+1131-Porte module billets ouverte
+1120-Veuillez retirer l'empileur
+1452-Niveau élevé de saleté du capteur de présence d'empileur.
+1565-Il est nécessaire de procéder à la maintenance des courroies du lecteur de billets

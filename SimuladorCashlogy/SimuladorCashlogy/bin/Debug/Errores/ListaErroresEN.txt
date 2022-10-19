@@ -1,0 +1,11 @@
+Select the error you want to simulate ...
+1002-A possible error in the accounting
+1110-Not possible to give change
+1556-Dirty sensors in note refund channel
+1130-Coin module door is open
+1196-Maximum storage capacity of one of the coin values has been reached
+1315-It is necessary to perform the Preventive Maintenance of the machine
+1131-Note reader door is open
+1120-Please remove the Stacker
+1452-Dirty stacker presence sensors
+1565-It is necessary to carry out the Maintenance of the Banknote Reader Belts

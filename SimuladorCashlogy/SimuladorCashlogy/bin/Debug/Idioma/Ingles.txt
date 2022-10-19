@@ -1,0 +1,69 @@
+EN
+1	Language:
+2	Select Language...
+3	State:
+4	CLOSED
+5	IDLE
+6	BUSY
+7	ERROR
+8	Cashlogy Simulator
+9	Cashology
+10	Accounting Settings
+11	Error Settings
+12	Send OPOS Orders
+13	General Settings
+14	No opened device
+15	Configure the necessary parameters of the device
+16	Closed device
+17	Waiting to receive an Open
+18	ACCOUNTING
+19	Store
+20	Stackers
+21	Dispensed
+22	Setup Accounting
+23	Set all to 0
+24	Accept
+25	DEPOSITED
+26	DISPENSED
+27	Open Stacker
+28	Collect and Close Stacker
+29	Cash Valuation
+30	Open
+31	Claimed
+32	Enabled
+33	ADMISSION
+34	Inhibited
+35	Fill...
+36	One coin of each
+37	One bill of each
+38	Random
+39	Add
+40	Errors must be configured
+41	Force Errors
+42	Clean Errors
+43	NOT STARTED
+44	Received an OPEN
+45	Received a CLAIM
+46	Received an ENABLE
+47	Received a RELEASE
+48	DEPOSITING...
+49	Received an END_DEPOSIT
+50	Received a PAUSE_DEPOSIT
+51	DISPENSING...
+52	Refund Finished
+53	ERROR SETUP
+54	SETTINGS
+55	Enables cash entry cadence
+56	Coin input (ms)
+57	Bill input (ms)
+58	Must be greater than 0
+59	Enables cash outflow cadence
+60	Coin output (ms)
+61	Bill output (ms)
+62	Must be greater than ms
+63	Configuration disabled due to being in Run mode
+64	Registry Settings
+65	Enable Simulation
+66	Device List
+67	Server Configuration
+68	Enable Server configuration

@@ -1,0 +1,69 @@
+DE
+1	Sprache:
+2	Sprache auswählen...
+3	Zustand:
+4	GESCHLOSSEN
+5	RUHE
+6	BESETZT
+7	FEHLER
+8	Cashlogy-Simulator
+9	Cashlogy
+10	Abrechnungskonfiguration
+11	Fehlerkonfiguration
+12	Senden Sie OPOS-Bestellungen
+13	Allgemeine Konfiguration
+14	Kein geöffnetes Gerät
+15	Konfigurieren Sie die erforderlichen Parameter des Geräts
+16	Gerät geschlossen
+17	Warten auf ein Open
+18	RECHNUNGSLEGUNG
+19	Lager
+20	Stapler
+21	Rückkehr
+22	Buchhaltung einrichten
+23	Alle auf 0 setzen
+24	Akzeptieren
+25	ZUGELASSEN
+26	ZURÜCKGEGEBEN
+27	Offener Stapler
+28	Sammeln und schließen Sie den Stapler
+29	Barbewertung
+30	Öffnen
+31	Beansprucht
+32	Aktiviert
+33	EINTRITT
+34	Gehemmt
+35	Füllen...
+36	Jeweils eine Münze
+37	Je eine Rechnung
+38	Zufällig
+39	Hinzu
+40	Fehler müssen eingestellt werden
+41	Force-Fehler
+42	Fehler Bereinigen
+43	NICHT GESTARTET
+44	Erhielt ein OPEN
+45	Einen ANSPRUCH erhalten
+46	ENABLE empfangen
+47	FREIGABE erhalten
+48	EINZAHLUNG...
+49	END_DEPOSIT erhalten
+50	PAUSE_DEPOSIT erhalten
+51	AUSGABE...
+52	Rückkehr beendet
+53	FEHLER EINRICHTEN
+54	EINSTELLUNGEN
+55	Aktiviert den Bargeldeintrittsrhythmus
+56	Münzeingabe (ms)
+57	Rechnungseingang (ms)
+58	Muss größer als 0 sein
+59	Aktiviert die Kadenz des Geldabflusses
+60	Münzausgabe (ms)
+61	Banknotenausgabe (ms)
+62	Muss größer als 133 sein
+63	Konfiguration deaktiviert, da im Run-Modus
+64	Registrierungseinstellungen
+65	Simulation aktivieren
+66	Geräteliste
+67	Serverkonfiguration
+68	Serverkonfiguration aktivieren

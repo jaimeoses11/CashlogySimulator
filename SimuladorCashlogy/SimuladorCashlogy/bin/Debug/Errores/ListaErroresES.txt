@@ -1,0 +1,11 @@
+Selecciona el error que se quiere simular ...
+1002-Posible desajuste en contabilidad
+1110-No se ha podido realizar la devolución
+1556-Nivel suciedad alto en sensores del canal de devolución de billetes
+1130-Puerta de monedas abierta
+1196-Se ha alcanzado la máxima capacidad de almacenamiento de alguna de las monedas
+1315-Es necesario realizar el Mantenimiento Preventivo de la máquina
+1131-Puerta billetes abierta
+1120-Por favor, retire el Stacker
+1452-Nivel suciedad alto en sensor de presencia de stacker
+1565-Es necesario realizar el Mantenimiento de las Correas del Lector de Billetes
