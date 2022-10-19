@@ -1,0 +1,69 @@
+IT
+1	Lingua:
+2	Seleziona Lingua...
+3	Stato:
+4	CHIUSO
+5	RIPOSO
+6	OCCUPATO
+7	ERRORE
+8	Simulatore Di Cashlogy
+9	Cashlogy
+10	Configurazione contabilità
+11	Configurazione di errore
+12	Invia ordini OPOS
+13	Configurazione generale
+14	Nessun dispositivo aperto
+15	Configurare i parametri necessari del dispositivo
+16	Dispositivo chiuso
+17	In attesa di ricevere un Open
+18	CONTABILITÀ
+19	Magazzino
+20	Impilatori
+21	Ritorno
+22	Impostazione Contabilità
+23	Impostare tutto su 0
+24	Accetta
+25	AMMESSI
+26	RESTITUITO
+27	Apri impilatore
+28	Raccogli e chiudi l'impilatore
+29	Valutazione in contanti
+30	Aperto
+31	Affermato
+32	Abilitato
+33	AMMISSIONE
+34	Inibito
+35	Riempi...
+36	Una moneta per ciascuno
+37	Una fattura per ciascuno
+38	Casuale
+39	Aggiungere
+40	Gli errori devono essere impostati
+41	Causare Errori
+42	Rimuovere gli Errori
+43	NON AVVIATO
+44	Ha ricevuto un OPEN
+45	Ha ricevuto un RECLAMO
+46	Ha ricevuto un ENABLE
+47	Ha ricevuto una VERSIONE DI RILASCIO
+48	DEPOSITO...
+49	Ha ricevuto un END_DEPOSIT
+50	Ha ricevuto un PAUSE_DEPOSIT
+51	EROGAZIONE...
+52	Reso terminato
+53	ERRORE DI IMPOSTAZIONE
+54	IMPOSTAZIONI
+55	Abilita la cadenza di entrata in contanti
+56	Ingresso monete (ms)
+57	Ingresso fattura (ms)
+58	Deve essere maggiore di 0
+59	Abilita la cadenza del flusso di cassa
+60	Uscita moneta (ms)
+61	Uscita banconote (ms)
+62	Deve essere maggiore di 133 ms
+63	Configurazione disabilitata perché in modalità Run
+64	Impostazioni del Registro di sistema
+65	Abilita simulazione
+66	Elenco dispositivi
+67	Configurazione del server
+68	Abilita configurazione server

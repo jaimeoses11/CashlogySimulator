@@ -1,0 +1,11 @@
+Seleziona l'errore che vuoi simulare ...
+1002-Possibile squadratura nella contabilità
+1110-Non è stato possibile realizzare l'erogazione
+1556-Livello di sporco alto nei sensori del canale di restituzione banconote
+1130-Porta modulo monete aperta
+1196-E' stata raggiunta la capacità massima di immagazzinamento di alcune monete
+1315-E’ necessario effettuare la Manutenzione Preventiva della macchina
+1131-Porta modulo banconote aperta
+1120-Si prega di ritirare lo staker
+1452-Livello di sporco alto nel sensore presenza stacker
+1565-E’ necessario eseguire la manutenzione delle cinghie del lettore banconote

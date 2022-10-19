@@ -1,0 +1,11 @@
+Wählen Sie den Fehler aus, den Sie simulieren möchten ...
+1002-Möglicher Fehler bei der Berechnung des Bargeldbestands
+1110-Es kann kein Wechselgeld ausgegeben werden
+1556-Verschmutzte Sensoren in der Banknotenrückgabe
+1130-Die Tür des Münzmoduls ist offen
+1196-Die maximale Speicherkapazität einer Stückelung wurde erreicht
+1315-Es ist notwendig, eine präventive Wartung durchzuführen
+1131-Die Tür des Münzmoduls ist offen
+1120-Bitte entfernen Sie den Stacker
+1452-Verschmutzte Detektionssensoren des Stackers
+1565-Es ist notwendig, die Bänder des Banknotenlesers zu reinigen

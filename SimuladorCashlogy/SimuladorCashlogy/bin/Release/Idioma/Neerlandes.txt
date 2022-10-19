@@ -1,0 +1,69 @@
+NL
+1	Taal:
+2	Selecteer taal...
+3	Staat:
+4	GESLOTEN
+5	RUST
+6	BEZIG
+7	BUG
+8	Cashlogy Simulator
+9	Cashlogy
+10	Boekhoudkundige configuratie
+11	Foutconfiguratie
+12	Stuur OPOS-bestellingen
+13	Algemene configuratie
+14	Geen geopend apparaat
+15	Configureer de benodigde parameters van het apparaat
+16	Apparaat gesloten
+17	Wachten op het ontvangen van een Open
+18	BOEKHOUDING
+19	Magazijn
+20	Stapelaars
+21	Retour
+22	Boekhouding instellen
+23	Zet alles op 0
+24	Accepteren
+25	TOEGELATEN
+26	GERETOURNEERD
+27	Stapelaar openen
+28	Verzamel en sluit stapelaar
+29	Contante waardering
+30	Openen
+31	Geclaimd
+32	Ingeschakeld
+33	TOELATING
+34	Geremd
+35	Vul...
+36	Een munt van elk
+37	Eén rekening van elk
+38	Willekeurig
+39	Toevoegen
+40	Fouten moeten worden ingesteld
+41	Forceer fouten
+42	Fouten opschonen
+43	NIET BEGONNEN
+44	Ontvangen een OPEN
+45	Een CLAIM ontvangen
+46	Ontvangen ENABLE
+47	Een RELEASE ontvangen
+48	DEPOSITIE...
+49	Een END_DEPOSIT ontvangen
+50	Een PAUSE_DEPOSIT ontvangen
+51	AFGIFTE...
+52	Retour voltooid
+53	FOUT INSTELLING
+54	INSTELLINGEN
+55	Schakelt cadans voor het invoeren van contant geld in
+56	Muntinvoer (ms)
+57	Factuurinvoer (ms)
+58	Moet groter zijn dan 0
+59	Schakelt cadans van de uitstroom van contanten in
+60	Muntuitgang (ms)
+61	Bankbiljetuitvoer (ms)
+62	Moet groter zijn dan 133 ms
+63	Configuratie uitgeschakeld omdat deze zich in de Run-modus bevindt
+64	Register instellingen
+65	Simulatie inschakelen
+66	Lijst met apparaten
+67	Serverconfiguratie
+68	Serverconfiguratie inschakelen

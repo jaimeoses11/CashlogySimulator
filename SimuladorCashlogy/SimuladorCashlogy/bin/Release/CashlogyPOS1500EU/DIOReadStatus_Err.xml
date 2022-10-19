@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CashlogyIssueInfo version='1.11.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.cashlogy.com/UnifiedPOS/namespace/' xsi:schemaLocation='http://www.cashlogy.com/UnifiedPOS/namespace/CashlogyIssueInfo.xsd'>
+  <IssueListInfo>
+    <UnifiedPOSVersion>1.11</UnifiedPOSVersion>
+    <DeviceCategory UPOS='CashChanger' />
+    <ModelName>CashlogyPOS1500EU</ModelName>
+    <IssueFormatVersion>1</IssueFormatVersion>
+    <Language>ES</Language>
+  </IssueListInfo>
+  <Change>#DescripcionErroresAqui#</Change>
+  <BillModule>
+    <Status id='0'>Correcto</Status>
+    <DoorStatus id='0'>Cerrada</DoorStatus>
+    <TrayStatus id='0'>OK</TrayStatus>
+    <NumberOfModulesNoOKs>
+      <Value>0</Value>
+    </NumberOfModulesNoOKs>
+  </BillModule>
+  <CoinModule>
+    <Status id='0'>Correcto</Status>
+    <DoorStatus id='0'>Cerrada</DoorStatus>
+    <TrayStatus id='0'>OK</TrayStatus>
+    <NumberOfModulesNoOKs>
+      <Value>0</Value>
+    </NumberOfModulesNoOKs>
+  </CoinModule>
+  <Items>
+    <NumberOfItemsNoOKs>10</NumberOfItemsNoOKs>
+    <Item>
+      <Value>'1'</Value>
+      <Status id='11'>Vacío</Status>
+    </Item>
+    <Item>
+      <Value>'2'</Value>
+      <Status id='11'>Vacío</Status>
+    </Item>
+    <Item>
+      <Value>'5'</Value>
+      <Status id='11'>Vacío</Status>
+    </Item>
+    <Item>
+      <Value>'10'</Value>
+      <Status id='11'>Vacío</Status>
+    </Item>
+    <Item>
+      <Value>'20'</Value>
+      <Status id='11'>Vacío</Status>
+    </Item>
+    <Item>
+      <Value>'50'</Value>
+      <Status id='11'>Vacío</Status>
+    </Item>
+    <Item>
+      <Value>'100'</Value>
+      <Status id='11'>Vacío</Status>
+    </Item>
+    <Item>
+      <Value>'200'</Value>
+      <Status id='11'>Vacío</Status>
+    </Item>
+    <Item>
+      <Value>'1000'</Value>
+      <Status id='12'>CasiVacío</Status>
+    </Item>
+    <Item>
+      <Value>'2000'</Value>
+      <Status id='12'>CasiVacío</Status>
+    </Item>
+  </Items>
+</CashlogyIssueInfo>

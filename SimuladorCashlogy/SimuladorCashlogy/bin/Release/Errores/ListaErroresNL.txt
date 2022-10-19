@@ -1,0 +1,11 @@
+Selecteer de fout die u wilt simuleren ...
+1002-Mogelijke onregelmatigheid in de boekhouding
+1110-Onmogelijk om het geld terug te geven
+1556-Verhoogde mate van vuil op de sensoren van het systeem voor het teruggeven van biljetten
+1130-Deur van module voor muntstukken staat open
+1196-De maximale opslagcapaciteit van bepaalde muntstukken is bereikt
+1315-Het is noodzakelijk om het preventieve onderhoud van de machine uit te voeren
+1131-Deur van module voor biljetten staat open
+1120-Gelieve de stapelaar uit te halen
+1452-Verhoogde mate van vuil op de sensor voor de aanwezigheid van de stapelaar
+1565-Het is noodzakelijk om het onderhoud van de bankbiljetlezerbanden uit te voeren
