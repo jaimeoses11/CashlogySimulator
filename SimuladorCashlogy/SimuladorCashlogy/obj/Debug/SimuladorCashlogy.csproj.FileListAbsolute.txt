@@ -1,0 +1,103 @@
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.AssemblyReference.cache
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.SuggestedBindingRedirects.cache
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Properties.Resources.resources
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.GenerateResource.cache
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CoreCompileInputs.cache
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe.config
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.pdb
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.AssemblyReference.cache
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.SuggestedBindingRedirects.cache
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.SimuladorCashlogy.resources
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Properties.Resources.resources
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.GenerateResource.cache
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CoreCompileInputs.cache
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.exe
+C:\JaimeOses\SimCashlogy (Monedas y Billetes juntos)\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.pdb
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.AssemblyReference.cache
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Properties.Resources.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.GenerateResource.cache
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CoreCompileInputs.cache
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe.config
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.pdb
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.AssemblyReference.cache
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.SuggestedBindingRedirects.cache
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Properties.Resources.resources
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.GenerateResource.cache
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CoreCompileInputs.cache
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.exe
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.pdb
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.OPOSFunctions.resources
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.SimuladorCashlogy.resources
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.OPOSFunctions.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe.config
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.pdb
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.AssemblyReference.cache
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.OPOSFunctions.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Properties.Resources.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.GenerateResource.cache
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.exe
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.pdb
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CopyComplete
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.FormSimulador.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormConfigCont.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormCashlogy.resources
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormCashlogy.resources
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormConfigCont.resources
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.AssemblyReference.cache
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormCashlogy.resources
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormConfigCont.resources
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.OPOSFunctions.resources
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.FormSimulador.resources
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Properties.Resources.resources
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.GenerateResource.cache
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.exe
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.pdb
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe.config
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.pdb
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jaime\Desktop\nuevo\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CopyComplete
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe.config
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.exe
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\SimuladorCashlogy.pdb
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.AssemblyReference.cache
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormCashlogy.resources
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormConfigCont.resources
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.OPOSFunctions.resources
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.FormSimulador.resources
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Properties.Resources.resources
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.GenerateResource.cache
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.csproj.CopyComplete
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.exe
+C:\Users\Jaime\Desktop\Sim\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.pdb
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormSimErrores.resources
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormSettings.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormCashlogy.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormConfigCont.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormSettings.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\SimuladorCashlogy.Forms.FormSimErrores.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.OPOSFunctions.resources
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\CashlogySimulator.exe.config
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\CashlogySimulator.exe
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\CashlogySimulator.pdb
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\CashlogySimulator.exe
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\CashlogySimulator.pdb
+C:\JaimeOses\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.MainFormSimulador.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\Cashlogy.Vistas.MainFormSimulador.resources
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\CashlogySimulator.exe
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\obj\Debug\CashlogySimulator.pdb
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\CashlogySimulator.exe.config
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\CashlogySimulator.exe
+C:\Users\Jaime\Desktop\SimuladorCashlogy\SimuladorCashlogy\bin\Debug\CashlogySimulator.pdb

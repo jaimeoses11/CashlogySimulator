@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52539472-8BFF-40D7-AE0F-01A3FF00D233}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SimuladorCashlogy</RootNamespace>
+    <AssemblyName>CashlogySimulator</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\CashlogyLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cashlogy.cs" />
+    <Compile Include="Cashlogy\Cashlogy.Cont.cs" />
+    <Compile Include="Cashlogy\Cashlogy.Def.cs" />
+    <Compile Include="Cashlogy\Cashlogy.DirectIO.cs" />
+    <Compile Include="Cashlogy\Cashlogy.OPOS.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="Constantes\Const.DirectIO.cs" />
+    <Compile Include="Constantes\Const.OPOS.cs" />
+    <Compile Include="Controles Personalizados\MyButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles Personalizados\ToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles Personalizados\VProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Errores.cs" />
+    <Compile Include="Forms\ControlHelper.cs" />
+    <Compile Include="Forms\FormCashlogy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormCashlogy.Designer.cs">
+      <DependentUpon>FormCashlogy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormConfigCont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormConfigCont.Designer.cs">
+      <DependentUpon>FormConfigCont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSettings.Designer.cs">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSimErrores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSimErrores.Designer.cs">
+      <DependentUpon>FormSimErrores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logs.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Socket\ResponseOPOS.cs" />
+    <Compile Include="Socket\RequestOPOS.cs" />
+    <Compile Include="Socket\ServerOPOS.cs" />
+    <Compile Include="Forms\OPOSFunctions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OPOSFunctions.Designer.cs">
+      <DependentUpon>OPOSFunctions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormSimulador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFormSimulador.Designer.cs">
+      <DependentUpon>MainFormSimulador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Idioma.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\FormCashlogy.resx">
+      <DependentUpon>FormCashlogy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormConfigCont.resx">
+      <DependentUpon>FormConfigCont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSettings.resx">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSimErrores.resx">
+      <DependentUpon>FormSimErrores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OPOSFunctions.resx">
+      <DependentUpon>OPOSFunctions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFormSimulador.resx">
+      <DependentUpon>MainFormSimulador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Compile Include="Cashlogy\Cashlogy.State.cs" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\icocashlogy.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cashlogy_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cashlogy_POS1500.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenLED_OFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenLED_ON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cashlogy_POS1500_Opened.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashlogyLogo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
